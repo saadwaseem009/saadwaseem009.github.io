@@ -1,35 +1,30 @@
-# Senior Mobile Application Developer Portfolio
+# Saad Waseem — Senior Mobile Application Developer Portfolio
 
-A responsive, dark-themed, static portfolio website built with HTML, CSS and vanilla JavaScript. It is ready to deploy for free with GitHub Pages.
+Responsive, dark-themed static portfolio built with HTML, CSS and vanilla JavaScript. No build step or backend is required.
 
-## 1. Personalize before publishing
+## Personal details
+- Email: saad.rocks009@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saad-waseem-242ba4b9/
+- GitHub: https://github.com/saadwaseem009
 
-Open `index.html` and replace:
-- `YOUR_EMAIL@example.com` with your professional email address.
-- `YOUR-LINKEDIN` with your LinkedIn profile username/path.
-- `YOUR-GITHUB` with your GitHub username.
+## Included published projects
+1. Ninja Expense Splitter — https://play.google.com/store/apps/details?id=com.teraception.ninjasplitter
+2. FlagMyGolf — https://play.google.com/store/apps/details?id=com.flagmygolf
+3. Muslim Prayer Challenge: Namaz — https://play.google.com/store/apps/details?id=com.teraception.prayerchallenge
+4. Kids Dua Daily: Islam 6 Kalmas — https://play.google.com/store/apps/details?id=com.ketch.kidsdua
+5. Kids Surah – 99 Names Allah — https://play.google.com/store/apps/details?id=com.teraception.kidssurah
 
-Also update the brand initials/name if you want your name displayed, and verify project descriptions and store links. The Flag My Golf Google Play link uses the package ID supplied for the project; verify that the listing is public and that the package ID is correct before sharing.
+Win the Day Planner is intentionally excluded.
 
-## 2. Publish with GitHub Pages
+## Screenshots
+Screenshots for all five projects are referenced from their public Google Play listing image CDN URLs and load in visitors' browsers. They are not stored in this repository. If Google changes or removes a listing image, replace its image URL in `index.html`.
 
-1. Sign in or create an account at https://github.com.
-2. Create a **public** repository named exactly `YOUR-USERNAME.github.io` (replace with your GitHub username).
-3. Upload `index.html`, `style.css`, `script.js` and this README to the repository root.
-4. Open the repository's **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select branch **main** and folder **/(root)**, then save.
-7. Wait for deployment. Your site will be available at `https://YOUR-USERNAME.github.io`.
+## Publish with GitHub Pages
+Your GitHub username is `saadwaseem009`. For the clean site URL `https://saadwaseem009.github.io/`, the repository must be named exactly `saadwaseem009.github.io`. The repository name you supplied, `saadwaseem.github.io`, does not match your username. Rename it under **Settings → General → Repository name**, or keep the current name and publish as `https://saadwaseem009.github.io/saadwaseem.github.io/`.
 
-GitHub's guide: https://docs.github.com/en/pages/quickstart
+Upload `index.html`, `style.css`, `script.js` and `README.md` directly to the repository root (not inside the enclosing portfolio folder). Then open **Settings → Pages**, choose **Deploy from a branch**, select branch `main` and folder `/(root)`, and save.
 
-## 3. Add project screenshots (recommended)
-
-Replace the CSS mockups in the project artwork with screenshots from your own apps when available. If you add images, create an `assets` folder and reference them with relative paths such as `assets/ninja-splitter.png`.
-
-## Notes
-
-- No build tools, package manager or backend are required.
-- Google Fonts are loaded from Google Fonts; system fonts will be used if unavailable.
-- The email and social links are placeholders until you replace them.
-- Check all content and links before sending the portfolio to employers.
+## Before publishing
+- Review each project description so it accurately reflects your personal contribution.
+- Check that the GitHub repository name is set as intended.
+- The portfolio is static; screenshots are externally hosted by Google Play.
